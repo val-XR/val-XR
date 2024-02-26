@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @val-XR
+- 👀 I’m interested in XR technology
+- 🌱 I’m currently learning how to make games
